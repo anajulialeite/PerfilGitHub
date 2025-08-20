@@ -11,3 +11,7 @@ Se gostou entre em contato que eu também posso criar o seu.
 <a href="https://wa.me/+55061996773513" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/WhatsApp-%231C003F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
+
+## License 
+
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
