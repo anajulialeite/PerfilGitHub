@@ -1,4 +1,4 @@
-# Perfs do lGitHub que eu fiz para amigos
+# Perfis do GitHub que eu fiz para amigos
 
 <img src="https://techstack-generator.vercel.app/github-icon.svg" align="left" width="160"/>
           
